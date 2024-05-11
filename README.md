@@ -4,9 +4,9 @@
 
 ### [甬哥YouTube频道](https://www.youtube.com/@ygkkk)
 
-### [甬哥TG电报交流群组](https://t.me/+jZHc6-A-1QQ5ZGVl)
+### [甬哥Telegram交流群组](https://t.me/+jZHc6-A-1QQ5ZGVl)
 
-### [甬哥TG电报频道发布](https://t.me/+DkC9ZZUgEFQzMTZl)
+### [甬哥Telegram频道发布](https://t.me/+DkC9ZZUgEFQzMTZl)
 
 ### [甬哥博客地址](https://ygkkk.blogspot.com)
 
