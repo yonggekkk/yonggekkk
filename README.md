@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonggekkk&label=Profile%20views&color=0e75b6&style=flat" alt="missuo" /> </p>
 
 <p>
-  <h1 align="center">
+  <h1 style="text-align: left;">
     <b>Hello, I'm <a href="https://www.youtube.com/@ygkkk">甬哥侃侃侃ygkkk</a> 👋</b>
   </h1>
 </p>
