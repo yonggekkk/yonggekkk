@@ -6,11 +6,7 @@
   </h1>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yonggekkk">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yonggekkk&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
+[![ygkkk GitHub Stats](https://github-readme-stats.zohan.tech/api?username=yonggekkk&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/yonggekkk)
 
 甬哥YouTube频道：https://www.youtube.com/@ygkkk
 
