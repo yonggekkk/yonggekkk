@@ -8,6 +8,14 @@
 
 [![ygkkk GitHub Stats](https://github-readme-stats.zohan.tech/api?username=yonggekkk&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/yonggekkk)
 
+可能是中国代理翻墙界唯一的"敏感风向标"！
+
+全网唯一露脸直播答疑各种代理协议知识的YouTube创作者！
+
+甬哥侃侃侃：我们废话不多说，直接开始作！
+
+-------------------------------------------------------
+
 甬哥YouTube频道：https://www.youtube.com/@ygkkk
 
 甬哥Telegram交流群组：https://t.me/+jZHc6-A-1QQ5ZGVl
