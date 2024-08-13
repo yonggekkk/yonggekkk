@@ -22,6 +22,8 @@
 
 甬哥Telegram频道发布：https://t.me/ygkkktgpd
 
+甬哥Telegram频道博客：https://ygkkktg.pages.dev
+
 甬哥博客地址：https://ygkkk.blogspot.com
 
 
