@@ -2,7 +2,7 @@
 
 <p>
   <h1 style="text-align: left;">
-    <b>Hello, I'm <a href="https://www.youtube.com/@ygkkk">甬哥侃侃侃ygkkk</a> 👋</b>
+    <b>Hello, I'm <a href="https://youtube.com/@ygkkk?sub_confirmation=1">甬哥侃侃侃ygkkk</a> 👋</b>
   </h1>
 </p>
 
@@ -16,7 +16,7 @@
 
 -------------------------------------------------------
 
-甬哥YouTube频道：https://www.youtube.com/@ygkkk
+甬哥YouTube频道：https://youtube.com/@ygkkk?sub_confirmation=1
 
 甬哥Telegram交流群组：https://t.me/ygkkktg
 
