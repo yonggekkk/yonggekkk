@@ -33,7 +33,12 @@
 写下你的建议或者提问，或许你的留言会发布到视频中
 
 -------------------------------------------------------
-感谢支持！微信打赏甬哥侃侃侃ygkkk
+感谢支持！
+
+BMC打赏甬哥：https://buymeacoffee.com/ygkkk
+
+
+微信打赏甬哥侃侃侃ygkkk
 
 ![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/946e1913-72a9-4701-b430-d09c4b2d2c3f)
 
