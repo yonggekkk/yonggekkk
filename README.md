@@ -18,7 +18,7 @@
 
 甬哥YouTube频道：https://youtube.com/@ygkkk?sub_confirmation=1
 
-甬哥推特X账号地址：https://x.com/renweikg
+甬哥推特X账号地址：https://x.com/ygkkkg
 
 甬哥Telegram交流群组：https://t.me/ygkkktg
 
