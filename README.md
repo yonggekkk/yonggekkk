@@ -8,7 +8,7 @@
 
 [![ygkkk GitHub Stats](https://github-readme-stats.zohan.tech/api?username=yonggekkk&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/yonggekkk)
 
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/yonggekkk)](https://githubroast.dev/u/yonggekkk)
+<a href="https://githubroast.dev/u/yonggekkk"><img src="https://githubroast.dev/api/card/yonggekkk" alt="GitHub Roast" width="600" /></a>
 
 可能是中国代理翻墙界唯一的"敏感风向标"！
 
